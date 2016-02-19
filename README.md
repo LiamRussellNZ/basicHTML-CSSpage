@@ -3,4 +3,4 @@
 run by opening a new command prompt and type:
 node server
 
-make sure you have nodeJS installed be you run it
+make sure you have nodeJS installed to be able to run it
